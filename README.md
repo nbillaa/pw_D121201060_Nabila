@@ -17,9 +17,10 @@ https://daftarbarangkelompok8web.000webhostapp.com/
 - Yahdi Arrazi | NIM.D121201096
  
  ## Code Language
- This project is used by the following companies:
+ bahasa yang digunakan pada project ini:
  - html
  - css
  - php
  
  ## framework:
+-
