@@ -22,5 +22,5 @@ https://daftarbarangkelompok8web.000webhostapp.com/
  - css
  - php
  
- ## framework:
+ ## Framework:
 -
