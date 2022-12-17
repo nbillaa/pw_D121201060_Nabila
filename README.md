@@ -1,9 +1,13 @@
 # Tugas Akhir Pemograman Web
 
 Nama: Nabila
+
 NIM: D121201060
+
 Kelas: C
+
 Link Website: 
+
 https://daftarbarangkelompok8web.000webhostapp.com/ 
 
 ## Kelompok 8:
@@ -14,8 +18,8 @@ https://daftarbarangkelompok8web.000webhostapp.com/
  
  ## Code Language
  This project is used by the following companies:
- html
- css
- php
+ - html
+ - css
+ - php
  
  ## framework:
